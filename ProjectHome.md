@@ -1,0 +1,1 @@
+A NXC language program to sort lego mindstorms into colors. I wanted to try out the NXC language and replicate what I can do with nxt-g with it.
